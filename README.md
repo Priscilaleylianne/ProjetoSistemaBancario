@@ -2,6 +2,11 @@
 
 ### *Gerenciamento de contas com autenticação, diferentes tipos de contas e menu interativo no console*
 
+Este repositório foi criado com o objetivo de documentar, organizar e disponibilizar o desenvolvimento de um Sistema Bancário em C++ utilizando Programação Orientada a Objetos (POO).
+O projeto simula operações bancárias reais, permite o gerenciamento de diferentes tipos de contas, inclui autenticação segura via senha e oferece um menu interativo em modo console.
+
+A estrutura do repositório foi planejada para auxiliar estudantes, pesquisadores e profissionais que desejam aprender ou revisar conceitos fundamentais de POO, modelagem UML, boas práticas de programação e organização de projetos em C++.
+
 ## Sobre o Projeto
 
 Este projeto apresenta um **Sistema Bancário desenvolvido em C++
