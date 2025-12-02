@@ -1,7 +1,10 @@
 # Sistema Bancário em C++
 
 ### *Gerenciamento de contas com autenticação, diferentes tipos de contas e menu interativo no console*
-
+![C++](https://img.shields.io/badge/Linguagem-C%2B%2B-blue)
+![License](https://img.shields.io/badge/Licença-MIT-green)
+![POO](https://img.shields.io/badge/Paradigma-POO-orange)
+![Status](https://img.shields.io/badge/Status-%20Concluído-red)
 Este repositório foi criado com o objetivo de documentar, organizar e disponibilizar o desenvolvimento de um Sistema Bancário em C++ utilizando Programação Orientada a Objetos (POO).
 O projeto simula operações bancárias reais, permite o gerenciamento de diferentes tipos de contas, inclui autenticação segura via senha e oferece um menu interativo em modo console.
 
