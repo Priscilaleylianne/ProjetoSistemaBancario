@@ -104,3 +104,10 @@ Desenvolvimento reforça práticas de engenharia e POO.
 ## Anexos
 
 Diagrama UML, capturas de tela.
+
+## Alunos:
+- ANA ESTER NASCIMENTO FEITOSA
+- FRANCISCO MARIO VIANA DE AMORIM
+- JOAO ARLESSON GOMES DE FARIAS
+- JULITA ANGELINA LOPES DE SOUZA
+- VITORIA RAFAELE ROCHA DE ANDRADE
